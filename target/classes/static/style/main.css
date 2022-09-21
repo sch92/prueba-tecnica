@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    max-width: 500px;
+    align-items: center;
+    margin: 0 auto;
+  }
+
+input[type=text], select, textarea#email {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: none;
+}
+
+textarea#email {
+  font-weight: bolder;
+  background-color: white;
+}
+
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+  font-weight: bold;
+}
+  
+input[type=submit], input[type=reset] {
+  margin-top: 20px;
+  padding: 15px;
+  display: inline-block;
+  font-weight: bold;
+  align-items: center;
+}
