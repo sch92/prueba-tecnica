@@ -20,4 +20,4 @@
 
 ## How to modify the final string
 
-    To modify the final string, you just need to implement the new code to the method getEmail() in the User class.
+    To modify the final string, you just need to implement the new code to the getEmail() method in the User class.
