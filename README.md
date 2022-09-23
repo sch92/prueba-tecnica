@@ -14,6 +14,10 @@
 
     mvn spring-boot:run
 
+## What is this?
+
+    This little program generates a new email address from your name, surname, office location and department.
+
 ## How to modify the final string
 
-    To modify the final string, you just need to implement the new code to the method getEmail() in the class User.
+    To modify the final string, you just need to implement the new code to the method getEmail() in the User class.
