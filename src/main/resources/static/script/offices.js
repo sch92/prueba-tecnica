@@ -1,3 +1,6 @@
+/**
+ * Array containing the offices
+ */
 const OFFICES = [
     {idOff: "milan",name: "Milan"},
     {idOff: "spain",name: "Spain"},
