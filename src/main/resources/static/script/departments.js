@@ -1,3 +1,6 @@
+/**
+ * Array containing the departments
+ */
 const DEPARTMENTS = [
     {idOff: "milan", idDep: "des", name: "Design"},
     {idOff: "milan", idDep: "bus", name: "Bussiness"},
