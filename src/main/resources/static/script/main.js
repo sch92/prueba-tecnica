@@ -9,7 +9,9 @@ OFFICES.forEach( o => {
 });
 
 selectOffice.addEventListener("change", loadDeparments);
-
+/**
+ * Fills the departments selector with instances from the array "DEPARTMENTS" located in departments.js when an office is selected
+ */
 function loadDeparments(){
     selectDepartment.textContent = "Select your department";
     let option = document.createElement("option");
